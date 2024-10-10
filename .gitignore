@@ -2,4 +2,4 @@
 *.csv
 *.pickle
 
-./lab_6/Lab6_enunciado.ipynb
+*.Lab6_enunciado.ipynb
