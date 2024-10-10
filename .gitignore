@@ -1,3 +1,5 @@
 *.parquet
 *.csv
 *.pickle
+
+/lab_6/Lab6_enunciado.ipynb
